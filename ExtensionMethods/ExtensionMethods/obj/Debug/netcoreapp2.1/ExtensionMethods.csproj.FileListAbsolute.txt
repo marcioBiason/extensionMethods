@@ -1,0 +1,11 @@
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.deps.json
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.json
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.dev.json
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.pdb
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfo.cs
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\ProjetoGit\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.pdb
